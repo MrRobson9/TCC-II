@@ -8,8 +8,8 @@ Todo o conteúdo aqui presente está disponível sob a uma licença MIT e o TCC 
 # Tecnologias Utilizadas
 
 Este trabalho foi desenvolvido utilizando o gerenciador de pacotes Anaconda (https://www.anaconda.com/) com Python versão 3.11.9. 
-Todas as bibliotecas utilizadas estão disponível no arquivo [requirements.yml](/Main/requirements.yml).
+Todas as bibliotecas utilizadas estão disponíveis no arquivo [requirements.yml](/Main/requirements.yml).
 
 # Utilização
 
-Para compreender como utilizar a plataforma, assita ao video clicando [aqui](https://www.youtube.com/). (A colocar)
+Para compreender como utilizar a plataforma, assista ao vídeo clicando [aqui](https://www.youtube.com/). (A colocar)

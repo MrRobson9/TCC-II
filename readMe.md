@@ -12,4 +12,4 @@ Todas as bibliotecas utilizadas estão disponíveis no arquivo [requirements.yml
 
 # Utilização
 
-Para compreender como utilizar a plataforma, assista ao vídeo clicando [aqui](https://drive.google.com/drive/folders/1sGYqMFsac-Tmo15q3Tty2DMaPM_k6RgG?usp=sharing).
+Para compreender como utilizar a plataforma, assista aos vídeos clicando [aqui](https://drive.google.com/drive/folders/1sGYqMFsac-Tmo15q3Tty2DMaPM_k6RgG?usp=sharing).
